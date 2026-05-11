@@ -421,12 +421,6 @@ retail-lakehouse-platform/
 │   ├── glue.tf
 │   ├── iam.tf
 │   └── mwaa.tf
-│
-├── sample_data/
-│
-├── screenshots/
-│
-└── docs/
 ```
 
 ---
