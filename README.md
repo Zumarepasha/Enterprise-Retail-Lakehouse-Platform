@@ -410,7 +410,7 @@ retail-lakehouse-platform/
 │
 ├── glue_jobs/
 │   ├── silver_layer_etl.py
-│   └── gold_layer_aggregation.py
+│   └── gold_layer_etl.py
 │
 ├── airflow/
 │   └── retail_lakehouse_dag.py
