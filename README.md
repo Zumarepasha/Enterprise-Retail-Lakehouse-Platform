@@ -419,8 +419,9 @@ retail-lakehouse-platform/
 │   ├── provider.tf
 │   ├── s3.tf
 │   ├── glue.tf
-│   ├── iam.tf
-│   └── mwaa.tf
+│   ├── mwaa.tf
+│   ├── sns.tf
+│   └── cloudwatch.tf
 ```
 
 ---
